@@ -53,7 +53,7 @@ Using a webcam and real-time **hand tracking**, the snake is controlled by the m
 
 Install dependencies:
 ```bash
-pip install pygame opencv-python mediapipe numpy
+pip install pygame opencv-python mediapipe
 ```
 Run the Game:
 ```bash
@@ -64,9 +64,9 @@ python snake_gesture_game.py
 
 ## 🎮 Gesture Controls
 - | Hand Movement     | Snake Direction |
-- | ----------------- | --------------- |
-- | Move finger up    | Up              |
-- | Move finger down  | Down            |
+- | -----------------  | --------------- |
+- | Move finger up     | Up              |
+- | Move finger down| Down            |
 - | Move finger left  | Left            |
 - | Move finger right | Right           |
 
