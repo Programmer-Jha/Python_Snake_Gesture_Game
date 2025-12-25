@@ -64,9 +64,9 @@ python snake_gesture_game.py
 
 ## 🎮 Gesture Controls
 - | Hand Movement     | Snake Direction |
-- | -----------------  | --------------- |
-- | Move finger up     | Up              |
-- | Move finger down| Down            |
+- | ----------------- | --------------- |
+- | Move finger up    | Up              |
+- | Move finger down  | Down            |
 - | Move finger left  | Left            |
 - | Move finger right | Right           |
 
