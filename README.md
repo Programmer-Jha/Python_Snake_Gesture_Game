@@ -60,21 +60,27 @@ Run the Game:
 python snake_gesture_game.py
 ```
 
+---
+
 ## 🎮 Gesture Controls
-| Hand Movement     | Snake Direction |
-| ----------------- | --------------- |
-| Move finger up    | Up              |
-| Move finger down  | Down            |
-| Move finger left  | Left            |
-| Move finger right | Right           |
+- | Hand Movement     | Snake Direction |
+- | ----------------- | --------------- |
+- | Move finger up    | Up              |
+- | Move finger down  | Down            |
+- | Move finger left  | Left            |
+- | Move finger right | Right           |
 
 ### - Make sure your hand is clearly visible to the camera for best results.
+
+---
 
 ## 🖥️ Game Layout
 
 - Left Side: Live camera feed with hand tracking
 
 - Right Side: Snake game area
+
+---
 
 ## 📄 License
 
