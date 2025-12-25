@@ -84,4 +84,4 @@ python snake_gesture_game.py
 
 ## 📄 License
 
-- This project is created for educational purposes.
+- This project is created for educational purposes and free to use.
